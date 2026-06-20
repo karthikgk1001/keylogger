@@ -48,7 +48,10 @@ This project is intended as a **reference implementation** for understanding how
 | `pyobjc` (AppKit) | Active window title resolution | macOS |
 | `xdotool` | Active window title resolution | Linux |
 | `requests` | Webhook HTTP delivery | All |
+---
+## Demo
 
+[![Keylogger Demo](https://img.youtube.com/vi/p0HDMMiDie8/0.jpg)](https://youtu.be/p0HDMMiDie8)
 ---
 
 ## Installation
